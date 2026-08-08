@@ -1,17 +1,11 @@
 <div align="center">
 
-<h1><img src="assets/icons/logo.svg" width="64" height="64" alt="">&nbsp; Rose Newell</h1>
+<h1>Rose Newell</h1>
 
 Full-stack sustainable web developer, copywriter, content designer, and technical SEO consultant based in Berlin.<br>
 Native English, fluent German.
 
-<p>
-<a href="https://rosenewell.co.uk"><img src="assets/icons/logo.svg" width="28" height="28" alt=""> rosenewell.co.uk</a>&nbsp;&nbsp;&nbsp;
-<a href="https://codewordcreative.com"><img src="assets/icons/codewordlogo.svg" width="28" height="28" alt=""> codeword: creative</a>&nbsp;&nbsp;&nbsp;
-<a href="https://englishroseberlin.com"><img src="assets/icons/erb.svg" width="28" height="28" alt=""> English Rose Berlin</a>&nbsp;&nbsp;&nbsp;
-<a href="https://sustyicons.com"><img src="assets/icons/sustyicons.svg" width="28" height="28" alt=""> Susty Icons</a>&nbsp;&nbsp;&nbsp;
-<a href="https://chromamo.de"><img src="assets/icons/chromamode.svg" width="28" height="28" alt=""> ChromaMo.de</a>
-</p>
+<table> <tr> <td width="33.33%" align="center"><a href="https://rosenewell.co.uk"><img src="assets/icons/logo.svg" width="56" height="56" alt=""><br>rosenewell.co.uk</a></td> <td width="33.33%" align="center"><a href="https://codewordcreative.com"><img src="assets/icons/codewordlogo.svg" width="112" height="56" alt=""><br>codeword: creative</a></td> <td width="33.33%" align="center"><a href="https://englishroseberlin.com"><img src="assets/icons/erb.svg" width="56" height="56" alt=""><br>English Rose Berlin</a></td> </tr> </table> <table> <tr> <td width="50%" align="center"><a href="https://sustyicons.com"><img src="assets/icons/sustyicons.svg" width="56" height="56" alt=""><br>Susty Icons</a></td> <td width="50%" align="center"><a href="https://chromamo.de"><img src="assets/icons/chromamode.svg" width="56" height="56" alt=""><br>ChromaMo.de</a></td> </tr> </table>
 
 <p>
 <a href="https://www.linkedin.com/in/codewordcreative/"><img src="assets/icons/linkedin.svg" width="26" height="26" alt="LinkedIn"></a>&nbsp;
@@ -27,7 +21,7 @@ Native English, fluent German.
 
 ## About
 
-I build fast, sustainable websites, with completely hand-coded HTML, CSS, JS, and SVGs. Or I build astoundingly fast and sustainable WordPress sites complete with my own custom plugins for optimal function and efficiency. I also write native English copy to drive clicks and convert. I optimise all code, copy, and assets for users and search engines. Put simply, I design content that works, building brands and strategy that translate into success. Oh, and I translate from German, too.
+I build fast, sustainable websites, with completely hand-coded HTML, CSS, JS, and SVGs. Or I build impressively fast and sustainable WordPress sites complete with my own custom plugins for optimal function and efficiency. I also write native English copy to drive clicks and convert. I optimise all code, copy, and assets for users and search engines. Put simply, I design content that works, building brands and strategy that translate into success. Oh, and I translate from German, too.
 
 <br>
 
@@ -54,7 +48,7 @@ I build fast, sustainable websites, with completely hand-coded HTML, CSS, JS, an
 <tr>
 <td width="50%" valign="top">
 <p><strong><span aria-hidden="true">🛠️</span> Web and Digital Strategy</strong><br>
-Ultra-efficient WordPress or hand-coded static builds. Better performance and UX, lower hosting costs, and GDPR-compliance and accessibility built in by design. Multilingual tools available too, plus full performance and sustainability audits for existing sites.</p>
+Ultra-efficient WordPress or hand-coded static builds. Better performance and UX, lower hosting costs, and GDPR-compliance and accessibility built in by design. Multilingual, performance and sustainability tools and audits.</p>
 </td>
 <td width="50%" valign="top">
 <p><strong><span aria-hidden="true">🔍</span> Technical SEO and Analytics</strong><br>
