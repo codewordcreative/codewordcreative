@@ -11,7 +11,6 @@ Native English, fluent German.
 <a href="https://www.linkedin.com/in/codewordcreative/"><img src="assets/icons/linkedin.svg" width="26" height="26" alt="LinkedIn"></a>&nbsp;
 <a href="https://bsky.app/profile/codewordcreative.com"><img src="assets/icons/bluesky.svg" width="26" height="26" alt="Bluesky"></a>&nbsp;
 <a href="https://berlin.social/@rose"><img src="assets/icons/mastodon.svg" width="26" height="26" alt="Mastodon"></a>&nbsp;
-<a href="https://github.com/codewordcreative"><img src="assets/icons/github.svg" width="26" height="26" alt="GitHub"></a>&nbsp;
 <a href="https://www.xing.com/profile/Rose_Newell/web_profiles"><img src="assets/icons/xing.svg" width="26" height="26" alt="Xing"></a>
 </p>
 
@@ -97,7 +96,6 @@ Based in Berlin, Germany (GMT+1/CET)
 <a href="https://www.linkedin.com/in/codewordcreative/"><img src="assets/icons/linkedin.svg" width="24" height="24" alt="LinkedIn"></a>&nbsp;
 <a href="https://bsky.app/profile/codewordcreative.com"><img src="assets/icons/bluesky.svg" width="24" height="24" alt="Bluesky"></a>&nbsp;
 <a href="https://berlin.social/@rose"><img src="assets/icons/mastodon.svg" width="24" height="24" alt="Mastodon"></a>&nbsp;
-<a href="https://github.com/codewordcreative"><img src="assets/icons/github.svg" width="24" height="24" alt="GitHub"></a>&nbsp;
 <a href="https://www.xing.com/profile/Rose_Newell/web_profiles"><img src="assets/icons/xing.svg" width="24" height="24" alt="Xing"></a>
 </p>
 
