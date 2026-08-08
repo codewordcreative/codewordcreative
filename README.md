@@ -2,8 +2,7 @@
 
 <h1>Rose Newell</h1>
 
-Full-stack sustainable web developer, copywriter, content designer, and technical SEO consultant based in Berlin.<br>
-Native English, fluent German.
+Full-stack sustainable web developer, copywriter, content designer, and technical SEO consultant based in Berlin. Native English, fluent German.
 
 <table> <tr> <td width="33.33%" align="center"><a href="https://rosenewell.co.uk"><img src="assets/icons/logo.svg" width="56" height="56" alt=""><br>rosenewell.co.uk</a></td> <td width="33.33%" align="center"><a href="https://codewordcreative.com"><img src="assets/icons/codewordlogo.svg" width="112" height="56" alt=""><br>codeword: creative</a></td> <td width="33.33%" align="center"><a href="https://englishroseberlin.com"><img src="assets/icons/erb.svg" width="56" height="56" alt=""><br>English Rose Berlin</a></td> </tr> </table> <table> <tr> <td width="50%" align="center"><a href="https://sustyicons.com"><img src="assets/icons/sustyicons.svg" width="56" height="56" alt=""><br>Susty Icons</a></td> <td width="50%" align="center"><a href="https://chromamo.de"><img src="assets/icons/chromamode.svg" width="56" height="56" alt=""><br>ChromaMo.de</a></td> </tr> </table>
 
